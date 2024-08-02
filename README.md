@@ -1,2 +1,2 @@
 # DGA-domains-recognition
-A machine learning system that predicts by writing a domain whether this domain is a DGA domain created by an algorithm.
+A machine learning system that predicts whether the proposed domain is a normal or malicious DGA domain created by a special algorithm.
